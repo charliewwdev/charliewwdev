@@ -1,4 +1,4 @@
-### Hi, I'm Charlie (Chenglin Wang) 👋
+### Hi, I'm Charlie 👋
 
 AI application backend & **AI Agent platform** engineer — building coding agents, model gateways, and agentic production systems.
 
