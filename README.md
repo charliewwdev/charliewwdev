@@ -1,46 +1,65 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=720&lines=AI+Agent+%26+Full+Stack+Engineer;Building+OpenCLI+%C2%B7+OpenMontage;Agents+%C2%B7+Gateways+%C2%B7+Products+that+Ship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=AI+Agent+%26+Full+Stack+Engineer;OpenCLI+%C2%B7+OpenMontage+Drama+Studio;Agents+that+ship+to+production" alt="Typing SVG" />
 
 <br/>
 
 ### Charlie · AI Agent & Full Stack Engineer
 
-**Ship agents. Ship products. Own the stack.**
+**Agents · gateways · products that ship.**
 
-[![OpenCLI](https://img.shields.io/badge/OpenCLI-opencli.ai-7C3AED?style=for-the-badge&logo=terminal&logoColor=white)](https://opencli.ai/)
-[![OpenMontage](https://img.shields.io/badge/OpenMontage-短剧工厂-EC4899?style=for-the-badge&logo=youtube&logoColor=white)](https://openmontage.dtok.io/)
-[![DTok](https://img.shields.io/badge/DTok-Studio-0EA5E9?style=for-the-badge)](https://openmontage.dtok.io/)
+<p>
+  <a href="https://opencli.ai/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/OpenCLI-opencli.ai-7C3AED?style=for-the-badge&logo=terminal&logoColor=white" alt="OpenCLI"/>
+  </a>
+  &nbsp;
+  <a href="https://openmontage.dtok.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/OpenMontage-Drama_Studio-EC4899?style=for-the-badge&logo=youtube&logoColor=white" alt="OpenMontage"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/charliewwdev/OpenMontage" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-OpenMontage-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+  </a>
+</p>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=charliewwdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899&text_color=E5E7EB" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charliewwdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" height="165" alt="langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=charliewwdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899&text_color=E5E7EB" height="158" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charliewwdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" height="158" alt="langs" />
 
 </div>
 
 ---
 
-## ⚡ What I build
+## About
+
+I build **AI agent platforms** and **full-stack products** end to end — from model gateway & tool calling to the UX that ships.
+
+Currently shipping:
+
+- **[OpenCLI](https://opencli.ai/)** — coding / work agent for any OpenAI-compatible model (CLI · desktop · local web)
+- **[OpenMontage Drama Studio](https://openmontage.dtok.io/)** — short-drama factory: script → cast → storyboard → video, with Postgres + MinIO cloud deploy
+
+---
+
+## What I build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Agent
-- Multi-Agent platforms & orchestration
-- **Model Gateway** / tool calling
-- Coding agents & agent workflows
-- LangGraph-style production systems
+### AI Agent
+- Multi-agent orchestration & workflows
+- Model gateway / tool calling
+- Coding agents in production
+- Skill-driven pipelines (not one-off scripts)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Full Stack
-- End-to-end product delivery
-- Backend platforms (Java / Python)
-- APIs, integrations, data flows
-- From prototype → production UX
+### Full Stack
+- Product delivery: API → UI → deploy
+- Python / Java backends · React frontends
+- Auth, credits, usage, media pipelines
+- Coolify / Docker / Postgres / MinIO
 
 </td>
 </tr>
@@ -48,55 +67,57 @@
 
 ---
 
-## 🚀 Featured projects
+## Featured
 
-<br/>
-
-<a href="https://opencli.ai/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=charliewwdev&repo=open-swe&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB" height="120" />
-</a>
-&nbsp;
-<a href="https://github.com/charliewwdev/OpenMontage">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=charliewwdev&repo=OpenMontage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=EC4899&text_color=E5E7EB" height="120" />
-</a>
-
-<br/><br/>
+<p align="center">
+  <a href="https://opencli.ai/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ai-dashboad&repo=opencli&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB" height="115" alt="OpenCLI"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/charliewwdev/OpenMontage" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=charliewwdev&repo=OpenMontage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=EC4899&text_color=E5E7EB" height="115" alt="OpenMontage"/>
+  </a>
+</p>
 
 | | Project | One-liner |
 |:---:|:---|:---|
-| 🖥️ | **[OpenCLI](https://opencli.ai/)** | Open coding / work agent for any OpenAI-compatible model — terminal · desktop · local web |
-| 🎬 | **[OpenMontage](https://openmontage.dtok.io/)** | Agentic short-drama factory — pipelines, tools & skills that turn agents into a video studio |
-| 🛰️ | **AI Model Gateway** | Production gateway + multi-agent orchestration across many business lines |
+| 🖥️ | **[OpenCLI](https://opencli.ai/)** <sup>[↗](https://opencli.ai/)</sup> | Agent for models you run yourself — terminal · desktop · local web |
+| 🎬 | **[OpenMontage](https://openmontage.dtok.io/)** <sup>[↗](https://openmontage.dtok.io/)</sup> | Drama Studio — agentic short-drama pipelines, cloud-ready |
+| 🧪 | **[flutter-skill](https://github.com/ai-dashboad/flutter-skill)** <sup>[↗](https://github.com/ai-dashboad/flutter-skill)</sup> | AI E2E testing across mobile / web / desktop via MCP |
+| 🛰️ | **AI Model Gateway** | Production gateway + multi-agent orchestration |
+
+> Tip: badges and ↗ links above use `target="_blank"` so they open in a **new tab** (where GitHub allows it).
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PG"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Agent%20Platform-7C3AED?style=flat-square" alt="Agent"/>
   <img src="https://img.shields.io/badge/Model%20Gateway-EC4899?style=flat-square" alt="Gateway"/>
-  <img src="https://img.shields.io/badge/Tool%20Calling-0EA5E9?style=flat-square" alt="Tools"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C1678?style=flat-square" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-10B981?style=flat-square" alt="FullStack"/>
 </p>
 
 ---
 
-## 🔗 Links
+## Links
 
 <div align="center">
 
-| | |
+| | Open in new tab |
 |:---:|:---|
-| 🌐 | [opencli.ai](https://opencli.ai/) — the agent for models that don’t have one |
-| 🎞️ | [openmontage.dtok.io](https://openmontage.dtok.io/) — short-drama / video factory |
-| 🐙 | [github.com/charliewwdev](https://github.com/charliewwdev) |
+| 🌐 | <a href="https://opencli.ai/" target="_blank" rel="noopener noreferrer"><b>opencli.ai</b></a> — agent for OpenAI-compatible models |
+| 🎞️ | <a href="https://openmontage.dtok.io/" target="_blank" rel="noopener noreferrer"><b>openmontage.dtok.io</b></a> — Drama Studio live |
+| 📦 | <a href="https://github.com/charliewwdev/OpenMontage" target="_blank" rel="noopener noreferrer"><b>charliewwdev/OpenMontage</b></a> — this studio’s source |
+| 🐙 | <a href="https://github.com/charliewwdev" target="_blank" rel="noopener noreferrer"><b>github.com/charliewwdev</b></a> |
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED,EC4899&height=120&section=footer&text=Agents%20%2B%20Full%20Stack%20%C2%B7%20Ship%20it&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED,EC4899&height=100&section=footer&text=Agents%20%2B%20Full%20Stack%20%C2%B7%20Ship%20it&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%" alt="footer"/>
 
 </div>
