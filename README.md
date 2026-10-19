@@ -6,9 +6,9 @@
 
 **AI Agent builder · 公开构建 AI 短剧产品 · 有区块链开发经验**
 
-<a href="https://x.com/openintentos"><img src="https://img.shields.io/badge/X-@openintentos-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://opencli.ai/"><img src="https://img.shields.io/badge/OpenCLI-opencli.ai-7C3AED?style=for-the-badge&logo=gnubash&logoColor=white" alt="OpenCLI"/></a>
-<a href="https://openmontage.dtok.io/"><img src="https://img.shields.io/badge/OpenMontage-Live_Demo-EC4899?style=for-the-badge&logo=youtube&logoColor=white" alt="OpenMontage"/></a>
+<a href="https://x.com/openintentos" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-@openintentos-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://opencli.ai/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OpenCLI-opencli.ai-7C3AED?style=for-the-badge&logo=gnubash&logoColor=white" alt="OpenCLI"/></a>
+<a href="https://openmontage.dtok.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OpenMontage-Live_Demo-EC4899?style=for-the-badge&logo=youtube&logoColor=white" alt="OpenMontage"/></a>
 
 </div>
 
@@ -19,7 +19,7 @@
 - 🤖 **现在 all-in AI Agent**：模型网关、tool calling、多 Agent 编排，以及把它们包成真正能用的产品
 - 🎬 **正在公开构建**：AI 短剧 / 动漫生成工作流 —— 从剧本到成片，一条 Agent 流水线
 - ⛓️ 有区块链开发经验
-- ✍️ 我在 X 上记录做产品的过程、踩坑和数据：[@openintentos](https://x.com/openintentos)
+- ✍️ 我在 X 上记录做产品的过程、踩坑和数据：<a href="https://x.com/openintentos" target="_blank" rel="noopener noreferrer">@openintentos</a>
 
 ---
 
@@ -27,14 +27,14 @@
 
 | | Project | What it is | Links |
 |:---:|:---|:---|:---|
-| 🎬 | **OpenMontage Drama Studio** | 一站式 AI 短剧工坊：剧本 → 角色 → 分镜 → 视频，Postgres + MinIO 云部署 | [Live](https://openmontage.dtok.io/) · [Code](https://github.com/charliewwdev/OpenMontage) · [Desktop UI](https://github.com/ai-dashboad/openmontage-studio) |
-| 🖥️ | **OpenCLI** | 面向自托管模型的 coding agent —— CLI / 桌面 / 本地 Web，兼容任意 OpenAI-compatible API（Rust） | [Site](https://opencli.ai/) · [Code](https://github.com/ai-dashboad/opencli) |
-| 🧪 | **flutter-skill** | 基于 MCP 的 AI E2E 测试，覆盖移动 / Web / 桌面多平台 | [Code](https://github.com/ai-dashboad/flutter-skill) |
-| 🧠 | **OpenIntentOS** | 开源的 Intent Operating System（Rust） | [Code](https://github.com/OpenIntentOS/OpenIntentOS) |
+| 🎬 | **OpenMontage Drama Studio** | 一站式 AI 短剧工坊：剧本 → 角色 → 分镜 → 视频，Postgres + MinIO 云部署 | <a href="https://openmontage.dtok.io/" target="_blank" rel="noopener noreferrer">Live</a> · <a href="https://github.com/charliewwdev/OpenMontage" target="_blank" rel="noopener noreferrer">Code</a> · <a href="https://github.com/ai-dashboad/openmontage-studio" target="_blank" rel="noopener noreferrer">Desktop UI</a> |
+| 🖥️ | **OpenCLI** | 面向自托管模型的 coding agent —— CLI / 桌面 / 本地 Web，兼容任意 OpenAI-compatible API（Rust） | <a href="https://opencli.ai/" target="_blank" rel="noopener noreferrer">Site</a> · <a href="https://github.com/ai-dashboad/opencli" target="_blank" rel="noopener noreferrer">Code</a> |
+| 🧪 | **flutter-skill** | 基于 MCP 的 AI E2E 测试，覆盖移动 / Web / 桌面多平台 | <a href="https://github.com/ai-dashboad/flutter-skill" target="_blank" rel="noopener noreferrer">Code</a> |
+| 🧠 | **OpenIntentOS** | 开源的 Intent Operating System（Rust） | <a href="https://github.com/OpenIntentOS/OpenIntentOS" target="_blank" rel="noopener noreferrer">Code</a> |
 
 <p align="center">
-  <a href="https://github.com/charliewwdev/OpenMontage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=charliewwdev&repo=OpenMontage&theme=tokyonight&hide_border=true&bg_color=0D1117" height="110" alt="OpenMontage"/></a>
-  <a href="https://github.com/ai-dashboad/flutter-skill"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ai-dashboad&repo=flutter-skill&theme=tokyonight&hide_border=true&bg_color=0D1117" height="110" alt="flutter-skill"/></a>
+  <a href="https://github.com/charliewwdev/OpenMontage" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=charliewwdev&repo=OpenMontage&theme=tokyonight&hide_border=true&bg_color=0D1117" height="110" alt="OpenMontage"/></a>
+  <a href="https://github.com/ai-dashboad/flutter-skill" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ai-dashboad&repo=flutter-skill&theme=tokyonight&hide_border=true&bg_color=0D1117" height="110" alt="flutter-skill"/></a>
 </p>
 
 ---
@@ -80,8 +80,8 @@
 
 ## 📦 Earlier work
 
-- [douyin](https://github.com/charliewwdev/douyin) — 用 Flutter 复刻 TikTok 的开源练手项目（600+ ⭐）
-- [SmartQQ](https://github.com/charliewwdev/SmartQQ) — 跨平台 WebQQ 客户端（.NET Core）
+- <a href="https://github.com/charliewwdev/douyin" target="_blank" rel="noopener noreferrer">douyin</a> — 用 Flutter 复刻 TikTok 的开源练手项目（600+ ⭐）
+- <a href="https://github.com/charliewwdev/SmartQQ" target="_blank" rel="noopener noreferrer">SmartQQ</a> — 跨平台 WebQQ 客户端（.NET Core）
 
 ---
 
@@ -89,5 +89,5 @@
 
 我会持续开源和分享做 AI Agent 产品的过程。如果你在做 **AI Agent / AI 视频** 相关的产品，想交流或合作：
 
-👉 X 私信 [@openintentos](https://x.com/openintentos)
+👉 X 私信 <a href="https://x.com/openintentos" target="_blank" rel="noopener noreferrer">@openintentos</a>
 
