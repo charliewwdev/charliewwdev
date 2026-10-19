@@ -6,7 +6,7 @@
 
 **AI Agent builder · 公开构建 AI 短剧产品 · 有区块链开发经验**
 
-<a href="https://x.com/openintentos" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-@openintentos-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://x.com/charlieonai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-@charlieonai-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://opencli.ai/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OpenCLI-opencli.ai-7C3AED?style=for-the-badge&logo=gnubash&logoColor=white" alt="OpenCLI"/></a>
 <a href="https://openmontage.dtok.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OpenMontage-Live_Demo-EC4899?style=for-the-badge&logo=youtube&logoColor=white" alt="OpenMontage"/></a>
 
@@ -19,7 +19,7 @@
 - 🤖 **现在 all-in AI Agent**：模型网关、tool calling、多 Agent 编排，以及把它们包成真正能用的产品
 - 🎬 **正在公开构建**：AI 短剧 / 动漫生成工作流 —— 从剧本到成片，一条 Agent 流水线
 - ⛓️ 有区块链开发经验
-- ✍️ 我在 X 上记录做产品的过程、踩坑和数据：<a href="https://x.com/openintentos" target="_blank" rel="noopener noreferrer">@openintentos</a>
+- ✍️ 我在 X 上记录做产品的过程、踩坑和数据：<a href="https://x.com/charlieonai" target="_blank" rel="noopener noreferrer">@charlieonai</a>
 
 ---
 
@@ -89,5 +89,5 @@
 
 我会持续开源和分享做 AI Agent 产品的过程。如果你在做 **AI Agent / AI 视频** 相关的产品，想交流或合作：
 
-👉 X 私信 <a href="https://x.com/openintentos" target="_blank" rel="noopener noreferrer">@openintentos</a>
+👉 X 私信 <a href="https://x.com/charlieonai" target="_blank" rel="noopener noreferrer">@charlieonai</a>
 
